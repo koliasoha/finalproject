@@ -20,12 +20,28 @@
   background-color: #f5f5f5;
   text-align: center;
 }
+.background-color{
+  background-color: darkgreen;
+
+}
+#imagebk {
+  background-image: url("../imagebk.jpg");
+  background-size: contain;
+  background-repeat:no-repeat;
+  height: 367px;
+  width: 100%;
+  position: relative;
+  alignment: center;
+}
   .floatleft{
     float: left;
   }
 .floatright{
   float: right;
  }
+.clearfix{
+  clear:both;
+}
 .carousel-caption {
   position: absolute;
   z-index: 1;
