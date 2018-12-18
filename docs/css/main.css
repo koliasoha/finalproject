@@ -24,6 +24,9 @@
   background-color: darkgreen;
 
 }
+.aligncenter{
+  alignment: center;
+}
 #imagebk {
   background-image: url("../imagebk.jpg");
   background-size: contain;
