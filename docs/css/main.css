@@ -24,6 +24,11 @@
   background-color: darkgreen;
 
 }
+.jumbotronbg {
+  background-image: url("../jumbotronbg.jpeg");
+  background-size: cover;
+  height: 400px;
+}
 .aligncenter{
   alignment: center;
 }
