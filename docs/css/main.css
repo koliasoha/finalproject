@@ -51,6 +51,15 @@
 .aligncenter{
   alignment: center;
 }
+#text{
+  text-align: center;
+  color:black;
+  font-size: 40px;
+  margin:50%;
+  padding: 40%;
+  position: center;
+}
+
 #imagebk {
   background-image: url("../imagebk.jpg");
   background-size: contain;
